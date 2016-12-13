@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Salil/Documents/School Work/Java/DiscordBot/Discord4J-2.5.0-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Salil/Documents/School Work/Java/DiscordBot/slf4j-1.7.9/slf4j-1.7.9/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Salil/Documents/School Work/Java/DiscordBot/slf4j-1.7.9/slf4j-1.7.9/slf4j-simple-1.7.9.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Resources"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

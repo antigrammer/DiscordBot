@@ -1,0 +1,39 @@
+Bot: It is <player>'s turn.							//select player
+
+Bot: ***GAME***									//game status
+
+Player: captain steal 2 asdfdsa.						//player input
+
+Bot: Objections to <player> claiming <role>: (<time left>).			//object
+
+Player2: object.								//player input
+
+Bot: <player>'s claim of being <role> is the truth.				//right or wrong
+
+Bot: <objector> must now give up a card.					//giving up cards
+
+Bot: <objector> had the role of <card>.
+
+Bot: <card>.
+
+Bot: <player> has replaced their <card> with a new card.			//replace cards
+
+Bot: Objection to stopping <player> from <action>: (<time left>)		//object2 (could specialize more)
+
+Player2: object.
+
+Bot: Objections to <objector> has claimed the role of <role>: (<time left>)	//object3
+
+Player: object.									//player input
+
+Bot: <objector>'s claim of being <role> is a lie.				//right or wrong
+
+Bot: <objector> must now give up a card.					//giving up cards
+
+Bot: <objector> had the role of <card>.
+
+Bot: <card>
+
+Bot: <objector> has no more cards. <objector> is out of the game.		//player lost
+
+Bot: <play>									//play
