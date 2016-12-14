@@ -91,8 +91,8 @@ public enum Pokemon {
 	private static final ArrayList<Pokemon> POKEMON = new ArrayList<Pokemon>(Collections.unmodifiableList(Arrays.asList(values())));
 	private String type1, type2, tiers;
 	
-	Pokemon(String t1, String t2) {
-		type1 = t1;
+	Pokemon(String asdf1, String t2) {
+		type1 = asdf1;
 		type2 = t2;
 		tiers = "";
 	}
